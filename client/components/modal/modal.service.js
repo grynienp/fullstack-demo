@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('fullstackApp')
+angular.module('fullStackApp')
   .factory('Modal', function ($rootScope, $modal) {
     /**
      * Opens a modal
